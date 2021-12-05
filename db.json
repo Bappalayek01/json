@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "ino": 1,
+      "vid": "WB40AC4055",
+      "name": "Soumya Sahu",
+      "email": "soumya22@gmail.com",
+      "mobile": "9679846554",
+      "address": "Kolkata",
+      "service": "Parking-01"
+    },
+    {
+      "id": 2,
+      "ino": 2,
+      "vid": "TN39AK7701",
+      "name": "John Williams",
+      "email": "John@gmail.com",
+      "mobile": "8475635142",
+      "address": "Chennai",
+      "service": "Parking-01"
+    },
+    {
+      "id": 3,
+      "ino": 3,
+      "vid": "WB40AC4054",
+      "name": "Robin Singh",
+      "email": "Arobin44@gmail.com",
+      "mobile": "6294175677",
+      "address": "Durgapur",
+      "service": "Parking-02"
+    },
+    {
+      "id": 4,
+      "ino": 4,
+      "vid": "MH39AY3069",
+      "name": "Arunav Patil",
+      "email": "Arunp06@gmail.com",
+      "mobile": "8934175635",
+      "address": "Mumbai",
+      "service": "Parking-03"
+    },
+    {
+      "id": 5,
+      "ino": 5,
+      "vid": "MH39AY3060",
+      "name": "Soumya Sahu",
+      "email": "soumya22@gmail.com",
+      "mobile": "6294175634",
+      "address": "A zone",
+      "service": "Parking-02"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Bappa Layek",
+      "email": "Bappa98@gmail.com",
+      "mobile": "6294175635",
+      "password": "Bappa@123",
+      "cpassword": "Bappa@123",
+      "type": "admin",
+      "id": 1
+    },
+    {
+      "name": "Soumya Sahu",
+      "email": "Soumya77@gmail.com",
+      "mobile": "8172031906",
+      "password": "Soumya$123",
+      "cpassword": "Soumya$123",
+      "type": "user",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
